@@ -1,0 +1,7 @@
+langchain
+pip install transformers
+torch==2.0.1
+python-dotenv
+openai
+duckduckgo_search
+streamlit
